@@ -1,0 +1,3 @@
+/home/hangsun/GamesProject/Chapter1/build/CMakeFiles/Rasterizer.dir
+/home/hangsun/GamesProject/Chapter1/build/CMakeFiles/edit_cache.dir
+/home/hangsun/GamesProject/Chapter1/build/CMakeFiles/rebuild_cache.dir
