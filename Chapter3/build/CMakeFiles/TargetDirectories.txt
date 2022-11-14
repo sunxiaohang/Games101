@@ -1,0 +1,3 @@
+/home/hangsun/Games101/Chapter3/build/CMakeFiles/Rasterizer.dir
+/home/hangsun/Games101/Chapter3/build/CMakeFiles/edit_cache.dir
+/home/hangsun/Games101/Chapter3/build/CMakeFiles/rebuild_cache.dir
