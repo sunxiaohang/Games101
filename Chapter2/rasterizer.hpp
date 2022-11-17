@@ -85,7 +85,8 @@ namespace rst
         Eigen::Matrix4f model;
         Eigen::Matrix4f view;
         Eigen::Matrix4f projection;
-
+        std::vector<Eigen::Vector3f> frame_sample;
+        std::vector<float> depth_sample;
         std::map<int, std::vector<Eigen::Vector3f>> pos_buf;
         std::map<int, std::vector<Eigen::Vector3i>> ind_buf;
         std::map<int, std::vector<Eigen::Vector3f>> col_buf;
