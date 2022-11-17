@@ -56,11 +56,11 @@ static bool insideTriangle(int x, int y, const Vector3f* _v)
     Vector3f BP = P - B;
     Vector3f CP = P - C;
 
-    float z1 = AB.cross(AP).z()
-    float z2 = BC.cross(BP).z()
-    float z3 = CA.cross(CP).z()
+    float z1 = AB.cross(AP).z();
+    float z2 = BC.cross(BP).z();
+    float z3 = CA.cross(CP).z();
 
-    return (z1 > 0 && z2 > 0 && z3 > 0) || (z1 < 0 && z2 < 0 && z3 < 0)
+    return (z1 > 0 && z2 > 0 && z3 > 0) || (z1 < 0 && z2 < 0 && z3 < 0);
 }
 
 static std::tuple<float, float, float> computeBarycentric2D(float x, float y, const Vector3f* v)

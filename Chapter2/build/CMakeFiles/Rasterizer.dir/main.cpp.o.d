@@ -1,5 +1,5 @@
 CMakeFiles/Rasterizer.dir/main.cpp.o: \
- /home/hangsun/GamesProject/Chapter2/main.cpp /usr/include/stdc-predef.h \
+ /home/hangsun/Games101/Chapter2/main.cpp /usr/include/stdc-predef.h \
  /usr/include/c++/11/iostream \
  /usr/include/x86_64-linux-gnu/c++/11/bits/c++config.h \
  /usr/include/x86_64-linux-gnu/c++/11/bits/os_defines.h \
@@ -348,7 +348,7 @@ CMakeFiles/Rasterizer.dir/main.cpp.o: \
  /usr/include/opencv4/opencv2/video.hpp \
  /usr/include/opencv4/opencv2/video/tracking.hpp \
  /usr/include/opencv4/opencv2/video/background_segm.hpp \
- /home/hangsun/GamesProject/Chapter2/rasterizer.hpp \
+ /home/hangsun/Games101/Chapter2/rasterizer.hpp \
  /usr/include/eigen3/Eigen/Eigen /usr/include/eigen3/Eigen/Dense \
  /usr/include/eigen3/Eigen/Core \
  /usr/include/eigen3/Eigen/src/Core/util/DisableStupidWarnings.h \
@@ -610,5 +610,5 @@ CMakeFiles/Rasterizer.dir/main.cpp.o: \
  /usr/include/eigen3/Eigen/src/IterativeLinearSolvers/BiCGSTAB.h \
  /usr/include/eigen3/Eigen/src/IterativeLinearSolvers/IncompleteLUT.h \
  /usr/include/eigen3/Eigen/src/IterativeLinearSolvers/IncompleteCholesky.h \
- /home/hangsun/GamesProject/Chapter2/global.hpp \
- /home/hangsun/GamesProject/Chapter2/Triangle.hpp
+ /home/hangsun/Games101/Chapter2/global.hpp \
+ /home/hangsun/Games101/Chapter2/Triangle.hpp

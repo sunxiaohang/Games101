@@ -1,5 +1,5 @@
 CMakeFiles/Rasterizer.dir/rasterizer.cpp.o: \
- /home/hangsun/GamesProject/Chapter2/rasterizer.cpp \
+ /home/hangsun/Games101/Chapter2/rasterizer.cpp \
  /usr/include/stdc-predef.h /usr/include/c++/11/algorithm \
  /usr/include/c++/11/utility \
  /usr/include/x86_64-linux-gnu/c++/11/bits/c++config.h \
@@ -99,7 +99,7 @@ CMakeFiles/Rasterizer.dir/rasterizer.cpp.o: \
  /usr/include/c++/11/bits/stl_bvector.h \
  /usr/include/c++/11/bits/vector.tcc \
  /usr/include/c++/11/pstl/execution_defs.h \
- /home/hangsun/GamesProject/Chapter2/rasterizer.hpp \
+ /home/hangsun/Games101/Chapter2/rasterizer.hpp \
  /usr/include/eigen3/Eigen/Eigen /usr/include/eigen3/Eigen/Dense \
  /usr/include/eigen3/Eigen/Core \
  /usr/include/eigen3/Eigen/src/Core/util/DisableStupidWarnings.h \
@@ -478,8 +478,8 @@ CMakeFiles/Rasterizer.dir/rasterizer.cpp.o: \
  /usr/include/c++/11/list /usr/include/c++/11/bits/stl_list.h \
  /usr/include/c++/11/bits/allocated_ptr.h \
  /usr/include/c++/11/bits/list.tcc \
- /home/hangsun/GamesProject/Chapter2/global.hpp \
- /home/hangsun/GamesProject/Chapter2/Triangle.hpp \
+ /home/hangsun/Games101/Chapter2/global.hpp \
+ /home/hangsun/Games101/Chapter2/Triangle.hpp \
  /usr/include/opencv4/opencv2/opencv.hpp \
  /usr/include/opencv4/opencv2/opencv_modules.hpp \
  /usr/include/opencv4/opencv2/core.hpp \

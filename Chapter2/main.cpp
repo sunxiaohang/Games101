@@ -54,7 +54,13 @@ Eigen::Matrix4f get_projection_matrix(float eye_fov, float aspect_ratio, float z
          0, 0, 2/(zNear - zFar), -(zNear + zFar)/2,
          0, 0, 0, 1;
 
-    projection = translate * projection;
+    Eigen::Matrix4f convertTopBottom;
+    convertTopBottom << -1, 0, 0, 0,
+                        0, -1, 0, 0,
+                        0, 0, 1, 0,
+                        0, 0, 0, 1;
+
+    projection = convertTopBottom * translate * projection;
     return projection;
 }
 

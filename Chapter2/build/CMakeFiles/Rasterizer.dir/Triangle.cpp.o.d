@@ -1,7 +1,6 @@
 CMakeFiles/Rasterizer.dir/Triangle.cpp.o: \
- /home/hangsun/GamesProject/Chapter2/Triangle.cpp \
- /usr/include/stdc-predef.h \
- /home/hangsun/GamesProject/Chapter2/Triangle.hpp \
+ /home/hangsun/Games101/Chapter2/Triangle.cpp /usr/include/stdc-predef.h \
+ /home/hangsun/Games101/Chapter2/Triangle.hpp \
  /usr/include/eigen3/Eigen/Eigen /usr/include/eigen3/Eigen/Dense \
  /usr/include/eigen3/Eigen/Core \
  /usr/include/eigen3/Eigen/src/Core/util/DisableStupidWarnings.h \
